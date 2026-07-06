@@ -1,0 +1,226 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Fluff_Night",
+  "author": "InuzDev",
+  "themes": [
+    {
+      "name": "Moon Static",
+      "appearance": "dark",
+      "style": {
+        "accent": "#9C8FF2FF",
+        "border": "#2A2732FF",
+        "border.variant": "#2E2A38FF",
+        "border.focused": "#4A3E5CFF",
+        "border.selected": "#563A66FF",
+        "border.disabled": "#221F28FF",
+        "elevated_surface.background": "#17151CFF",
+        "surface.background": "#17151CFF",
+        "background": "#121116FF",
+        "element.background": "#211E29FF",
+        "element.hover": "#2A2632FF",
+        "element.active": "#2D2340FF",
+        "element.selected": "#33205AB8",
+        "element.disabled": "#221F2AFF",
+        "ghost_element.hover": "#42395530",
+        "ghost_element.active": "#2D2340FF",
+        "ghost_element.selected": "#33205AB8",
+        "ghost_element.disabled": "#18171DFF",
+        "text": "#8B8398FF",
+        "text.muted": "#9B93B0FF",
+        "text.disabled": "#706C7AFF",
+        "text.accent": "#9C8FF2FF",
+        "text.placeholder": "#9B93B0FF",
+        "icon": "#8B8398FF",
+        "icon.muted": "#9B93B0FF",
+        "icon.disabled": "#706C7AFF",
+        "icon.accent": "#9C8FF2FF",
+        "icon.placeholder": "#9B93B0FF",
+        "status_bar.background": "#121116FF",
+        "title_bar.background": "#121116FF",
+        "toolbar.background": "#0D0C11FF",
+        "tab_bar.background": "#17151CFF",
+        "tab.inactive_background": "#1E1B26FF",
+        "tab.active_background": "#121116FF",
+        "search.match_background": "#7EE0B866",
+        "panel.background": "#17151CFF",
+        "panel.focused_border": "#4A3E5CFF",
+        "pane.focused_border": "#4A3E5CFF",
+        "scrollbar.thumb.background": "#C8CCD400",
+        "scrollbar.thumb.hover_background": "#3F327A30",
+        "scrollbar.thumb.border": "#363C4600",
+        "scrollbar.track.border": "#2E333C00",
+        "editor.foreground": "#C4BFCFFF",
+        "editor.background": "#0D0C11FF",
+        "editor.gutter.background": "#0D0C11FF",
+        "editor.subheader.background": "#17151CFF",
+        "editor.active_line.background": "#211E2EAA",
+        "editor.highlighted_line.background": "#17151CFF",
+        "editor.line_number": "#5C5876FF",
+        "editor.active_line_number": "#B4A7D9FF",
+        "editor.hover_line_number": "#7A6E9CFF",
+        "terminal.background": "#141414FF",
+        "link_text.hover": "#9C8FF2FF",
+        "version_control.added": "#59FF5FFF",
+        "version_control.modified": "#FFDB45FF",
+        "version_control.deleted": "#FF6373FF",
+        "error": "#FF757DFF",
+        "hint": "#A69378FF",
+        "hint.border": "#5B4029FF",
+        "info": "#E8B874FF",
+        "info.border": "#5B4529FF",
+        "warning": "#FFD270FF",
+        "players": [
+          {
+            "cursor": "#FCDBA2FF",
+            "background": "#DBBDA2FF",
+            "selection": "#E8C9743D"
+          },
+          {
+            "cursor": "#be5046ff",
+            "background": "#be5046ff",
+            "selection": "#be50463d"
+          },
+          {
+            "cursor": "#bf956aff",
+            "background": "#bf956aff",
+            "selection": "#bf956a3d"
+          },
+          {
+            "cursor": "#b477cfff",
+            "background": "#b477cfff",
+            "selection": "#b477cf3d"
+          },
+          {
+            "cursor": "#6eb4bfff",
+            "background": "#6eb4bfff",
+            "selection": "#6eb4bf3d"
+          },
+          {
+            "cursor": "#d07277ff",
+            "background": "#d07277ff",
+            "selection": "#d072773d"
+          },
+          {
+            "cursor": "#dec184ff",
+            "background": "#dec184ff",
+            "selection": "#dec1843d"
+          },
+          {
+            "cursor": "#a1c181ff",
+            "background": "#a1c181ff",
+            "selection": "#a1c1813d"
+          }
+        ],
+        "syntax": {
+          "attribute": {
+            "color": "#E0A0C0FF"
+          },
+          "boolean": {
+            "color": "#96DCC0FF"
+          },
+          "comment": {
+            "color": "#5C5876FF"
+          },
+          "comment.doc": {
+            "color": "#7A76A0FF"
+          },
+          "constant": {
+            "color": "#F0C88AFF"
+          },
+          "constructor": {
+            "color": "#E0A0E0FF"
+          },
+          "emphasis": {
+            "color": "#C8A8F0FF"
+          },
+          "emphasis.strong": {
+            "color": "#DCB8FAFF"
+          },
+          "enum": {
+            "color": "#F0DCA8FF"
+          },
+          "function": {
+            "color": "#7C93F0FF"
+          },
+          "keyword": {
+            "color": "#E08CAEFF"
+          },
+          "label": {
+            "color": "#C48CA6FF"
+          },
+          "link_text": {
+            "color": "#9CB0F0FF"
+          },
+          "link_uri": {
+            "color": "#88DCC4FF"
+          },
+          "namespace": {
+            "color": "#E0A8A0FF"
+          },
+          "number": {
+            "color": "#E8B87AFF"
+          },
+          "operator": {
+            "color": "#8C9CE0FF"
+          },
+          "preproc": {
+            "color": "#B0A8D0FF"
+          },
+          "property": {
+            "color": "#8ED8BEFF"
+          },
+          "punctuation": {
+            "color": "#766E92FF"
+          },
+          "punctuation.bracket": {
+            "color": "#9088B0D9"
+          },
+          "punctuation.delimiter": {
+            "color": "#8880A6FF"
+          },
+          "string": {
+            "color": "#A0E0C4FF"
+          },
+          "string.escape": {
+            "color": "#C8B0F0FF"
+          },
+          "string.regex": {
+            "color": "#E88CA0FF"
+          },
+          "string.special": {
+            "color": "#F0DCA0FF"
+          },
+          "string.special.symbol": {
+            "color": "#E8A8DCFF"
+          },
+          "tag": {
+            "color": "#E0A0C0FF"
+          },
+          "text.literal": {
+            "color": "#BA8CA0FF"
+          },
+          "title": {
+            "color": "#F0D8A0FF"
+          },
+          "type": {
+            "color": "#B490E8FF"
+          },
+          "variable": {
+            "color": "#7DD0E0FF"
+          },
+          "variant": {
+            "color": "#D690A8FF"
+          }
+        },
+        "panel.overlay_background": "#17151CFF",
+        "panel.overlay_hover": "#121116FF",
+        "minimap.thumb.background": "#C8CCD400",
+        "minimap.thumb.hover_background": "#3F327A30",
+        "minimap.thumb.border": "#363C4600",
+        "terminal.foreground": "#C4BFCFFF"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "Fluff_Night, inspired for those nights when need to focus in the task, but also want to just relax and flow with it."
+}

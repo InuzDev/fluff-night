@@ -1,0 +1,7 @@
+id = "fluffnight"
+name = "fluff-night"
+version = "0.0.1"
+schema_version = 1
+authors = ["InuzDev"]
+description = "Fluff_Night, inspired for those nights when need to focus in the task, but also want to just relax and flow with it."
+repository = "https://github.com/your-name/my-zed-extension"
